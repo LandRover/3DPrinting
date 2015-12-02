@@ -9,6 +9,7 @@ Software:
   Slic3r (http://slic3r.org/download)
   Microsoft STL Fix (https://modelrepair.azurewebsites.net)
   SoldiWorks 2016
+  MeshLab
   Sketchup 2016 (v16)
    Plugins:
      Sketchup STL

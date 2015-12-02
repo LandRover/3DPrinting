@@ -15,3 +15,4 @@ Software:
      CleanUp^3
      TT_Lib^2
      RoundCorner (Requires account at SketchUcation - free is ok)
+     LibFredo6

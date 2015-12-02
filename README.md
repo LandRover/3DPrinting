@@ -14,4 +14,4 @@ Software:
      Sketchup STL
      CleanUp^3
      TT_Lib^2
-     RoundCorner (Not free, requires SketchUcation subscription)
+     RoundCorner (Requires account at SketchUcation - free is ok)
